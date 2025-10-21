@@ -1,0 +1,5 @@
+streamlit
+SpeechRecognition
+googletrans==3.1.0a0
+gtts
+PyAudio
